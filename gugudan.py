@@ -1,4 +1,5 @@
 print "구구단"
+print "달팽이 모양 출력"
 array = [ [ 0 for i in xrange(9) ] for j in xrange(9) ]
 n = 21
 x, y = 0, 0
