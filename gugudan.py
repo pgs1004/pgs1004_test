@@ -1,13 +1,4 @@
-matrix = [ [ 0 for i in xrange(9) ] for j in xrange(9) ]
 
-for i in range(0,8):
-	for j in range(0,9):
-		print matrix[i][j],
-	print ""
-
-
-
-print "================="
 array = [ [ 0 for i in xrange(9) ] for j in xrange(9) ]
 n = 21
 x, y = 0, 0
